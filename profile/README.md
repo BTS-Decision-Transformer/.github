@@ -1,6 +1,6 @@
 # BTS Project	
 	
-🔥 Decision Transformer for Trading
+🔥 Decision Transformer for High-Frequency Trading
 
 > Project Overview
 
